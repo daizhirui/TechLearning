@@ -1,6 +1,6 @@
 from FileManager import *
 from timeit import default_timer
-from sys import argv
+from sys import argv, exit
 
 
 if __name__ == '__main__':
