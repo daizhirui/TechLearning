@@ -23,10 +23,3 @@ class TestFileManager(unittest.TestCase):
 
 if __name__ == '__main__':
     unittest.main()
-    # a_list = ['berkeley', 'ucla', 'columbia']
-    #
-    # for item in enumerate(a_list):
-    #     print(item)
-    #     print(type(item))
-    # for index, value in enumerate(a_list):
-    #     print('{} --> {}'.format(index, value))
